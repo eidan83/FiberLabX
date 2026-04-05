@@ -17,7 +17,7 @@ FiberLabX is a MATLAB-based simulation tool for optical fiber analysis using FEM
 
 The full software is available via Zenodo:
 
-👉 10.5281/zenodo.19410920
+👉 [10.5281/zenodo.19410920](https://doi.org/10.5281/zenodo.19410920)
 
 
 ### 🔹 Author
